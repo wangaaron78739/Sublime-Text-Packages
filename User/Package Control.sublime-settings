@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"BracketHighlighter",
+		"CTags",
+		"Edge Theme",
+		"Emmet",
+		"HTML5",
+		"Package Control",
+		"Sublime Input",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-clang",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-gcc"
+	]
+}

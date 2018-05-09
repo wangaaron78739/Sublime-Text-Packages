@@ -2,6 +2,7 @@
 	"color_scheme": "Packages/Edge Theme/Edge Ocean.tmTheme",
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"theme": "Adaptive.sublime-theme"

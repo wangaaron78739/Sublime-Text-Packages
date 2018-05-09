@@ -6,18 +6,32 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
 		"Babel",
 		"BracketHighlighter",
+		"CMake",
+		"CMakeBuilder",
+		"ColorPicker",
 		"CTags",
 		"Edge Theme",
 		"Emmet",
+		"GitGutter",
 		"HTML5",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
 		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
 		"Sublime Input",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-clang",
 		"SublimeLinter-cppcheck",
-		"SublimeLinter-gcc"
+		"SublimeLinter-gcc",
+		"SublimeLinter-jshint",
+		"Terminal",
+		"Trimmer"
 	]
 }

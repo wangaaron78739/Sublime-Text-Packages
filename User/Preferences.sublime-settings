@@ -10,13 +10,14 @@
 			"selector": "text.tex.latex"
 		}
 	],
-	"color_scheme": "Packages/Colorcoder/Edge Night Sky (Colorcoded).tmTheme",
-	"font_size": 17,
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/GitHub_Dark.tmTheme",
+	"font_size": 19,
 	"ignored_packages":
 	[
 		"Markdown",
+		"SublimeLinter",
+		"SublimeLinter-clang",
 		"Vintage"
 	],
-	"original_color_scheme": "Packages/Edge Theme/Edge Night Sky.tmTheme",
 	"theme": "Edge Night Sky.sublime-theme"
 }

@@ -1,0 +1,16 @@
+{
+	"9o.hist.9o":
+	[
+		"clear",
+		"run",
+		"cd",
+		"list",
+		"ls",
+		"run asdf.go",
+		"help",
+		"run main.go"
+	],
+	"ann": "a18.11.28-1",
+	"install_version": "r18.11.28-1",
+	"version": "r18.11.28-1"
+}

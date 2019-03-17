@@ -1,3 +1,19 @@
 [
-	{ "keys": ["super+ctrl+s"], "command": "alignment" }
+	{ "keys": ["super+ctrl+s"], "command": "alignment" },
+     {
+        "keys":["super+ctrl+r"],
+        "command": "repl_open",
+                     "caption": "Python 3.7 - Open File",
+                     "id": "repl_python",
+                     "mnemonic": "p",
+                     "args": {
+                        "type": "subprocess",
+                        "encoding": "utf8",
+                        "cmd": ["/Library/Frameworks/Python.framework/Versions/3.7/bin/python3", "-i", "$file"],
+                        "cwd": "$file_path",
+                        "syntax": "Packages/Python/Python.tmLanguage",
+                        "external_id": "python",
+                        "extend_env": {"PYTHONIOENCODING": "utf-8"}
+                        }
+    }
 ]

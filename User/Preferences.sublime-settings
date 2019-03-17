@@ -14,10 +14,20 @@
 	"font_size": 17,
 	"ignored_packages":
 	[
+		"Golang Build",
+		"GoRename",
+		"GoSublime",
+		"GoTests",
 		"Markdown",
+		"Six",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-clang",
-		"Vintage"
+		"Vintage",
+		"Vintageous"
 	],
-	"theme": "Edge Night Sky.sublime-theme"
+	"neovintageous_build_version": 11000,
+	"theme": "Edge Night Sky.sublime-theme",
+	"vintageous_use_ctrl_keys": null,
+	"vintageous_use_super_keys": null
 }
